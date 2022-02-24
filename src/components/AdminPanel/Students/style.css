@@ -1,0 +1,12 @@
+.MuiAppBar-colorPrimary {
+    background-color: #428bb7;
+}
+
+.iconCover {
+    text-align: center;
+}
+
+.iconCover svg {
+    font-size: 40px;
+    color: #fafafa;
+}
